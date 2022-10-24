@@ -1,6 +1,6 @@
 ---
 layout: default_sparse
-title: Keynotes
+title: Keynote Speakers
 permalink: /keynotes/
 index: 10
 ---
